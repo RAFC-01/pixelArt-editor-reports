@@ -1,2 +1,2 @@
 # pixelArt-editor-reports
-Repository for reports related to pixelArt-editor (go to issues)
+Repository for reports related to PixoEdit (go to issues)
